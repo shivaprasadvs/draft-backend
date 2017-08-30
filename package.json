@@ -14,7 +14,8 @@
     "mongoose": "^4.11.7",
     "morgan": "~1.8.1",
     "react-facebook-login": "^3.6.2",
-    "serve-favicon": "~2.4.2"
+    "serve-favicon": "~2.4.2",
+    "supertest": "^3.0.0"
   },
   "devDependencies": {
     "nodemon": "^1.11.0"
